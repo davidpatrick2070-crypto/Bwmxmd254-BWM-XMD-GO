@@ -5,7 +5,7 @@
   "keywords": [
     "bot",
     "whatsapp",
-    "BWM-XMD",
+    "MR DAVIE",
     "whatsapp-stickers",
     "anime",
     "whatsapp-bot",
@@ -34,7 +34,7 @@
     },
     "BOT_NAME": {
       "description": "Your bot name",
-      "value": "BWM XMD",
+      "value": "Whatsapp",
       "required": false
     },
     "PREFIX": {
